@@ -1,6 +1,6 @@
-﻿#!/bin/bash
+#!/bin/bash
 
-SOLUTION="TFA-Bot.sln"
+SOLUTION="SSD1306CLI.sln"
 BUILD_CONF="Release"
 
 nuget restore $SOLUTION
